@@ -6,7 +6,7 @@
   <h1 align="center">NoVmp</h1>
   
   <p align="center">
-    <a href="https://ci.appveyor.com/project/can1357/NoVmp">
+    <a href="https://ci.appveyor.com/project/jmskmz/novmp">
       <img src="https://img.shields.io/appveyor/build/can1357/NoVmp?logo=appveyor&style=flat-square" alt="appveyor-ci"/>
     </a>
     <a href="https://github.com/can1357/NoVmp/blob/master/LICENSE.md">
