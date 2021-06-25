@@ -12,7 +12,7 @@ script:
 deploy:
   provider: releases
   api_key: $GH_TOKEN
-  file: "\build\NoVmp\Release\NoVmp.exe"
+  file: 'C:\Users\travis\build\jmskmz\NoVmp\build\NoVmp\Release\NoVmp.exe'
   skip_cleanup: true
   on:
     tags: true
