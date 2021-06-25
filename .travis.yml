@@ -1,0 +1,8 @@
+language: cpp
+
+os: windows
+
+script: 
+ - mkdir build && cd build
+ - cmake ..
+ - cmake --build . --config Release
