@@ -5,3 +5,6 @@ build_script:
 - cmd: mkdir build && cd build
 - cmd: cmake ..
 - cmd: cmake --build . --config Release
+artifacts:
+  - path: build\Release\NoVmp.exe
+    name: NoVmp
